@@ -8,11 +8,12 @@ public class HolaMundo{
 
 	//Nombre de la primer persona
 	String nombre = "VALERIA";
-	    
-	//Nombre de la segunda persona
 
+	//Nombre de la segunda persona
+  String nombre2 = "Fernanda";
 
 	//Saludo de parte de Vale
 	System.out.println("Hola Mundo, soy " + nombre);
+  System.out.println("Hola Mundo, soy " + nombre2);
     }
 }
