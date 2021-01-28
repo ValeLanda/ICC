@@ -8,6 +8,7 @@ public class HolaMundo{
 
 	//Nombre de la primer persona
 	String nombre = "VALERIA";
+	int edad = 22;
 
 	//Nombre de la segunda persona
   String nombre2 = "Fernanda";
